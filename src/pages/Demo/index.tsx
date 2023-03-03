@@ -26,7 +26,7 @@ const Demo: FC<IProps> = (data) => {
   return (
     <Fragment>
       <Helmet>
-        <title>简易的服务器端渲染框架 - DEMO</title>
+        <title>简易ADDDQWE框架 - DEMO</title>
         <meta name="description" content="服务器端渲染框架"></meta>
       </Helmet>
       <div>
